@@ -1,0 +1,11 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "package"
+version = "0.1.0"
+authors = [{ name = "Maksym Khanin", email = "st01237589@stud.duikt.edu.ua" }]
+description = "A simple test package"
+requires-python = ">=3.8"
+classifiers = ["Programming Language :: Python :: 3"]
